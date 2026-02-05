@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.flower {
+     background-color: black;
+     color: white;
+}
+
+.pasta {
+     background-color: yellow;
+}
+
+.flower, .pasta {
+     font-size: 28px;
+     font-family: Helvetica, Times New Roman, sans-serif;
+}
+     
